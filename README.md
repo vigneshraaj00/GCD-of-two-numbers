@@ -30,7 +30,7 @@ def gcd():
 ```
 
 ## Output:
-![Uploading Screenshot 2023-11-29 215709.png…]()
+![Screenshot 2023-11-29 215709](https://github.com/vigneshraaj00/GCD-of-two-numbers/assets/138849113/1ba4b496-1a6f-4085-8c4c-befb215d47d8)
 
 
 ## Result:
